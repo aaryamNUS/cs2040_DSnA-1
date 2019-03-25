@@ -12,7 +12,7 @@ https://open.kattis.com/
 ## If you have time:
 https://projecteuler.net/
 
-# Topics tested:
+# Topics tested: (in total for finals)
 1. Sorting
     1. Bubble, Insertion, Selection, Radix (Counting), Merge, Quick
 2. List ADT:
